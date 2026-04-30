@@ -6,42 +6,42 @@
                       "name":  "Non Rare Bronze",
                       "file":  "non_rare_bronze.png",
                       "category":  "Base",
-                      "textColor":  "#EAB48C"
+                      "textColor":  "#4A2E1B"
                   },
                   {
                       "id":  "non_rare_silver",
                       "name":  "Non Rare Silver",
                       "file":  "non_rare_silver.png",
                       "category":  "Base",
-                      "textColor":  "#B7BBC2"
+                      "textColor":  "#2A2A2A"
                   },
                   {
                       "id":  "non_rare_gold",
                       "name":  "Non Rare Gold",
                       "file":  "non_rare_gold.png",
                       "category":  "Base",
-                      "textColor":  "#EAD08C"
+                      "textColor":  "#4A3A23"
                   },
                   {
                       "id":  "rare_bronze",
                       "name":  "Rare Bronze",
                       "file":  "rare_bronze.png",
                       "category":  "Base",
-                      "textColor":  "#E1A67C"
+                      "textColor":  "#4A2E1B"
                   },
                   {
                       "id":  "rare_silver",
                       "name":  "Rare Silver",
                       "file":  "rare_silver.png",
                       "category":  "Base",
-                      "textColor":  "#AAADB7"
+                      "textColor":  "#2A2A2A"
                   },
                   {
                       "id":  "rare_gold",
                       "name":  "Rare Gold",
                       "file":  "rare_gold.png",
                       "category":  "Base",
-                      "textColor":  "#E1C57C"
+                      "textColor":  "#4A3A23"
                   },
                   {
                       "id":  "team_of_the_week_gold",
