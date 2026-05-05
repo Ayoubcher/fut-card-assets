@@ -1,0 +1,537 @@
+﻿{
+    "version":  2,
+    "cards":  [
+                  {
+                      "id":  "non_rare_bronze",
+                      "name":  "Non Rare Bronze",
+                      "file":  "non_rare_bronze.png",
+                      "category":  "Base",
+                      "textColor":  "#3E281C"
+                  },
+                  {
+                      "id":  "non_rare_silver",
+                      "name":  "Non Rare Silver",
+                      "file":  "non_rare_silver.png",
+                      "category":  "Base",
+                      "textColor":  "#2C2C2C"
+                  },
+                  {
+                      "id":  "non_rare_gold",
+                      "name":  "Non Rare Gold",
+                      "file":  "non_rare_gold.png",
+                      "category":  "Base",
+                      "textColor":  "#443a22"
+                  },
+                  {
+                      "id":  "rare_bronze",
+                      "name":  "Rare Bronze",
+                      "file":  "rare_bronze.png",
+                      "category":  "Base",
+                      "textColor":  "#3E281C"
+                  },
+                  {
+                      "id":  "rare_silver",
+                      "name":  "Rare Silver",
+                      "file":  "rare_silver.png",
+                      "category":  "Base",
+                      "textColor":  "#2C2C2C"
+                  },
+                  {
+                      "id":  "rare_gold",
+                      "name":  "Rare Gold",
+                      "file":  "rare_gold.png",
+                      "category":  "Base",
+                      "textColor":  "#4d331f"
+                  },
+                  {
+                      "id":  "team_of_the_week_gold",
+                      "name":  "Team of the week Gold",
+                      "file":  "team_of_the_week_gold.png",
+                      "category":  "TOTW",
+                      "textColor":  "#dfcf9a"
+                  },
+                  {
+                      "id":  "fut_champions_gold",
+                      "name":  "Fut champions Gold",
+                      "file":  "fut_champions_gold.png",
+                      "category":  "Base",
+                      "textColor":  "#dfcf9a"
+                  },
+                  {
+                      "id":  "ultimate_scream",
+                      "name":  "Ultimate Scream",
+                      "file":  "ultimate_scream.png",
+                      "category":  "Promos",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "ultimate_scream_heroes",
+                      "name":  "Ultimate Scream Heroes",
+                      "file":  "ultimate_scream_heroes.png",
+                      "category":  "Heroes",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "icon",
+                      "name":  "Icon",
+                      "file":  "icon.png",
+                      "category":  "Icons",
+                      "textColor":  "#594D2C"
+                  },
+                  {
+                      "id":  "debut_icon",
+                      "name":  "Debut Icon",
+                      "file":  "debut_icon.png",
+                      "category":  "Icons",
+                      "textColor":  "#FFFFFF"
+                  },
+                  {
+                      "id":  "champion_icon",
+                      "name":  "Champion Icon",
+                      "file":  "champion_icon.png",
+                      "category":  "Icons",
+                      "textColor":  "#FFFFFF"
+                  },
+                  {
+                      "id":  "star_performer",
+                      "name":  "Star Performer",
+                      "file":  "star_performer.png",
+                      "category":  "Promos",
+                      "textColor":  "#fff2bd"
+                  },
+                  {
+                      "id":  "flashback_sbc",
+                      "name":  "Flashback SBC",
+                      "file":  "flashback_sbc.png",
+                      "category":  "Promos",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "end_of_an_era",
+                      "name":  "End of An Era",
+                      "file":  "end_of_an_era.png",
+                      "category":  "Promos",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "champions_league_rttk",
+                      "name":  "Champions League RTTK",
+                      "file":  "champions_league_rttk.png",
+                      "category":  "UCL",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "champions_league_rttf",
+                      "name":  "Champions League RTTF",
+                      "file":  "champions_league_rttf.png",
+                      "category":  "UCL",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "uwcl_rttk",
+                      "name":  "UWCL RTTK",
+                      "file":  "uwcl_rttk.png",
+                      "category":  "UCL",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "uwcl_rttf",
+                      "name":  "UWCL RTTF",
+                      "file":  "uwcl_rttf.png",
+                      "category":  "UCL",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "player_moment",
+                      "name":  "Player Moment",
+                      "file":  "player_moment.png",
+                      "category":  "Promos",
+                      "textColor":  "#E2E653"
+                  },
+                  {
+                      "id":  "europa_league_rttk",
+                      "name":  "Europa League RTTK",
+                      "file":  "europa_league_rttk.png",
+                      "category":  "UCL",
+                      "textColor":  "#FFFFFF"
+                  },
+                  {
+                      "id":  "europa_league_rttf",
+                      "name":  "Europa League RTTF",
+                      "file":  "europa_league_rttf.png",
+                      "category":  "UCL",
+                      "textColor":  "#FFFFFF"
+                  },
+                  {
+                      "id":  "europa_conference_league",
+                      "name":  "Europa Conference League",
+                      "file":  "europa_conference_league.png",
+                      "category":  "UCL",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "europa_conference_league_rttf",
+                      "name":  "Europa Conference League RTTF",
+                      "file":  "europa_conference_league_rttf.png",
+                      "category":  "UCL",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "team_of_the_year",
+                      "name":  "Team of the Year",
+                      "file":  "team_of_the_year.png",
+                      "category":  "TOTY",
+                      "textColor":  "#f5db9b"
+                  },
+                  {
+                      "id":  "toty_evolutions",
+                      "name":  "TOTY Evolutions",
+                      "file":  "toty_evolutions.png",
+                      "category":  "TOTY",
+                      "textColor":  "#FFFFFF"
+                  },
+                  {
+                      "id":  "toty_honorable_mention",
+                      "name":  "TOTY HONORABLE MENTION",
+                      "file":  "toty_honorable_mention.png",
+                      "category":  "TOTY",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "toty_icon",
+                      "name":  "TOTY Icon",
+                      "file":  "toty_icon.png",
+                      "category":  "TOTY",
+                      "textColor":  "#594D2C"
+                  },
+                  {
+                      "id":  "toty_heroes",
+                      "name":  "TOTY HEROES",
+                      "file":  "toty_heroes.png",
+                      "category":  "TOTY",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "future_stars",
+                      "name":  "Future Stars",
+                      "file":  "future_stars.png",
+                      "category":  "Future Stars",
+                      "textColor":  "#ccfbff"
+                  },
+                  {
+                      "id":  "future_stars_heroes",
+                      "name":  "Future Stars Heroes",
+                      "file":  "future_stars_heroes.png",
+                      "category":  "Heroes",
+                      "textColor":  "#ccfbff"
+                  },
+                  {
+                      "id":  "future_stars_icons",
+                      "name":  "Future Stars Icons",
+                      "file":  "future_stars_icons.png",
+                      "category":  "Icons",
+                      "textColor":  "#594D2C"
+                  },
+                  {
+                      "id":  "bundesliga_potm",
+                      "name":  "Bundesliga POTM",
+                      "file":  "bundesliga_potm.png",
+                      "category":  "POTM",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "premiere_league_potm",
+                      "name":  "Premiere League POTM",
+                      "file":  "premiere_league_potm.png",
+                      "category":  "POTM",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "ligue_1_potm",
+                      "name":  "Ligue 1 POTM",
+                      "file":  "ligue_1_potm.png",
+                      "category":  "POTM",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "la_liga_potm",
+                      "name":  "LA LIGA POTM",
+                      "file":  "la_liga_potm.png",
+                      "category":  "POTM",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "seria_a_potm",
+                      "name":  "SERIA A POTM",
+                      "file":  "seria_a_potm.png",
+                      "category":  "POTM",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "la_liga_f_potm",
+                      "name":  "LA LIGA F POTM",
+                      "file":  "la_liga_f_potm.png",
+                      "category":  "POTM",
+                      "textColor":  "#FFFFFF"
+                  },
+                  {
+                      "id":  "squad_foundations",
+                      "name":  "Squad Foundations",
+                      "file":  "squad_foundations.png",
+                      "category":  "Promos",
+                      "textColor":  "#FFFFFF"
+                  },
+                  {
+                      "id":  "fut_birthday",
+                      "name":  "FUT BIRTHDAY",
+                      "file":  "fut_birthday.png",
+                      "category":  "FUT Birthday",
+                      "textColor":  "#FFFFFF"
+                  },
+                  {
+                      "id":  "fut_birthday_icons",
+                      "name":  "FUT BIRTHDAY ICONS",
+                      "file":  "fut_birthday_icons.png",
+                      "category":  "Icons",
+                      "textColor":  "#594D2C"
+                  },
+                  {
+                      "id":  "fut_birthday_evolutions",
+                      "name":  "FUT Birthday Evolutions",
+                      "file":  "fut_birthday_evolutions.png",
+                      "category":  "FUT Birthday",
+                      "textColor":  "#FFFFFF"
+                  },
+                  {
+                      "id":  "fut_birthday_heroes",
+                      "name":  "FUT birthday Heroes",
+                      "file":  "fut_birthday_heroes.png",
+                      "category":  "Heroes",
+                      "textColor":  "#FFFFFF"
+                  },
+                  {
+                      "id":  "team_of_the_season_gold",
+                      "name":  "Team Of The Season Gold",
+                      "file":  "team_of_the_season_gold.png",
+                      "category":  "TOTS",
+                      "textColor":  "#dfcf9a"
+                  },
+                  {
+                      "id":  "tots_honorable_mentions",
+                      "name":  "TOTS Honorable Mentions",
+                      "file":  "tots_honorable_mentions.png",
+                      "category":  "TOTS",
+                      "textColor":  "#FFFFFF"
+                  },
+                  {
+                      "id":  "tots_champions",
+                      "name":  "TOTS CHAMPIONS",
+                      "file":  "tots_champions.png",
+                      "category":  "TOTS",
+                      "textColor":  "#dfcf9a"
+                  },
+                  {
+                      "id":  "tots_evolutions",
+                      "name":  "TOTS Evolutions",
+                      "file":  "tots_evolutions.png",
+                      "category":  "TOTS",
+                      "textColor":  "#f5db9b"
+                  },
+                  {
+                      "id":  "fut_showdown",
+                      "name":  "FUT Showdown",
+                      "file":  "fut_showdown.png",
+                      "category":  "Showdown",
+                      "textColor":  "#C6EF0C"
+                  },
+                  {
+                      "id":  "fut_heroes",
+                      "name":  "FUT Heroes",
+                      "file":  "fut_heroes.png",
+                      "category":  "Heroes",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "winter_wildcard",
+                      "name":  "Winter Wildcard",
+                      "file":  "winter_wildcard.png",
+                      "category":  "Winter",
+                      "textColor":  "#ffefbe"
+                  },
+                  {
+                      "id":  "winter_icons",
+                      "name":  "Winter Icons",
+                      "file":  "winter_icons.png",
+                      "category":  "Icons",
+                      "textColor":  "#594D2C"
+                  },
+                  {
+                      "id":  "winter_heroes",
+                      "name":  "Winter Heroes",
+                      "file":  "winter_heroes.png",
+                      "category":  "Heroes",
+                      "textColor":  "#ffefbe"
+                  },
+                  {
+                      "id":  "fut_fantasy",
+                      "name":  "FUT Fantasy",
+                      "file":  "fut_fantasy.png",
+                      "category":  "Fantasy",
+                      "textColor":  "#FFFFFF"
+                  },
+                  {
+                      "id":  "fut_fantasy_heroes",
+                      "name":  "FUT Fantasy Heroes",
+                      "file":  "fut_fantasy_heroes.png",
+                      "category":  "Heroes",
+                      "textColor":  "#FFFFFF"
+                  },
+                  {
+                      "id":  "fantasy_captains_icons",
+                      "name":  "Fantasy Captains Icons",
+                      "file":  "fantasy_captains_icons.png",
+                      "category":  "Icons",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "fut_evolution_in_progress",
+                      "name":  "FUT Evolution In Progress",
+                      "file":  "fut_evolution_in_progress.png",
+                      "category":  "Promos",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "fut_evolution_i",
+                      "name":  "FUT Evolution I",
+                      "file":  "fut_evolution_i.png",
+                      "category":  "Promos",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "fut_fc_pro",
+                      "name":  "FUT FC PRO",
+                      "file":  "fut_fc_pro.png",
+                      "category":  "Promos",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "fut_thunderstruk",
+                      "name":  "FUT Thunderstruk",
+                      "file":  "fut_thunderstruk.png",
+                      "category":  "Promos",
+                      "textColor":  "#dfcf9a"
+                  },
+                  {
+                      "id":  "fut_thunderstruk_icons",
+                      "name":  "FUT Thunderstruk Icons",
+                      "file":  "fut_thunderstruk_icons.png",
+                      "category":  "Icons",
+                      "textColor":  "#594D2C"
+                  },
+                  {
+                      "id":  "fut_joga_bonito",
+                      "name":  "FUT Joga Bonito",
+                      "file":  "fut_joga_bonito.png",
+                      "category":  "Promos",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "fut_world_tour",
+                      "name":  "FUT World Tour",
+                      "file":  "fut_world_tour.png",
+                      "category":  "World Tour",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "world_tour_premium",
+                      "name":  "World Tour Premium",
+                      "file":  "world_tour_premium.png",
+                      "category":  "World Tour",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "fut_cornerstones",
+                      "name":  "FUT Cornerstones",
+                      "file":  "fut_cornerstones.png",
+                      "category":  "Promos",
+                      "textColor":  "#FFFFFF"
+                  },
+                  {
+                      "id":  "fut_classic_ix_heroes",
+                      "name":  "FUT Classic IX Heroes",
+                      "file":  "fut_classic_ix_heroes.png",
+                      "category":  "Heroes",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "fut_unbreakables",
+                      "name":  "FUT Unbreakables",
+                      "file":  "fut_unbreakables.png",
+                      "category":  "Promos",
+                      "textColor":  "#ffffff"
+                  },
+                  {
+                      "id":  "fut_unbreakables_icons",
+                      "name":  "FUT Unbreakables Icons",
+                      "file":  "fut_unbreakables_icons.png",
+                      "category":  "Icons",
+                      "textColor":  "#594D2C"
+                  },
+                  {
+                      "id":  "fut_time_warp",
+                      "name":  "FUT Time Warp",
+                      "file":  "fut_time_warp.png",
+                      "category":  "Promos",
+                      "textColor":  "#FFFFFF"
+                  },
+                  {
+                      "id":  "time_warp_icons",
+                      "name":  "Time Warp Icons",
+                      "file":  "time_warp_icons.png",
+                      "category":  "Icons",
+                      "textColor":  "#594D2C"
+                  },
+                  {
+                      "id":  "knockout_royality",
+                      "name":  "Knockout Royality",
+                      "file":  "knockout_royality.png",
+                      "category":  "Knockout",
+                      "textColor":  "#FFFFFF"
+                  },
+                  {
+                      "id":  "knockout_royality_icons",
+                      "name":  "Knockout Royality Icons",
+                      "file":  "knockout_royality_icons.png",
+                      "category":  "Icons",
+                      "textColor":  "#594D2C"
+                  },
+                  {
+                      "id":  "knockout_royality_heroes",
+                      "name":  "Knockout Royality Heroes",
+                      "file":  "knockout_royality_heroes.png",
+                      "category":  "Heroes",
+                      "textColor":  "#FFFFFF"
+                  },
+                  {
+                      "id":  "fut_answer_the_call",
+                      "name":  "FUT Answer The Call",
+                      "file":  "fut_answer_the_call.png",
+                      "category":  "Promos",
+                      "textColor":  "#FFFFFF"
+                  },
+                  {
+                      "id":  "fut_trophy_titans_i",
+                      "name":  "FUT Trophy Titans I",
+                      "file":  "fut_trophy_titans_i.png",
+                      "category":  "Trophy Titans",
+                      "textColor":  "#dfcf9a"
+                  },
+                  {
+                      "id":  "trophy_titans_icons",
+                      "name":  "Trophy Titans Icons",
+                      "file":  "trophy_titans_icons.png",
+                      "category":  "Icons",
+                      "textColor":  "#dfcf9a"
+                  }
+              ]
+}
