@@ -533,5 +533,12 @@
                       "category":  "Icons",
                       "textColor":  "#dfcf9a"
                   }
+        {
+                      "id":  "Qatar",
+                      "name":  "Qatar WC",
+                      "file":  "Qatar.png",
+                      "category":  "Icons",
+                      "textColor":  "#dfcf9a"
+                  }
               ]
 }
